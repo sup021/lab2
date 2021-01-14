@@ -23,7 +23,7 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background: url(https://specials-images.forbesimg.com/imageserve/5dd31bc8e0af7b0006b1a833/960x0.jpg?fit=scale);
      opacity: 0.2;
      top: 0;
      left: 0;
